@@ -125,7 +125,7 @@ const fakeVCardQuoted = {
       vcard: `BEGIN:VCARD
 VERSION:3.0
 FN:© OSHIYA-MD
-ORG:ArslanMD Official;
+ORG:OSHIYA Official;
 TEL;type=CELL;type=VOICE;waid=13135550002:+13135550002
 END:VCARD`
     }
@@ -134,9 +134,9 @@ END:VCARD`
 
 // ---- Caption (alive.js style bot details) ----
 const caption = `
-╭━〔 *ᴀʀꜱʟᴀɴ-xᴍᴅ* 〕━··๏
+╭━〔 *OSHIYA MD* 〕━··๏
 ┃★╭──────────────
-┃★│ 👑 Owner : *ArslanMD Official*
+┃★│ 👑 Owner : *Oshiya Official*
 ┃★│ 🤖 Baileys : *Multi Device*
 ┃★│ 💻 Type : *NodeJs*
 ┃★│ 🚀 Platform : *Render*
@@ -158,7 +158,7 @@ await sock.sendMessage(
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: "120363348739987203@newsletter",
-        newsletterName: "❀༒★[ᴀʀꜱʟᴀɴ-ᴍᴅ]★༒❀",
+        newsletterName: "OSHIYA MD",
         serverMessageId: 143
       }
     }
