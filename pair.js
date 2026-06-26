@@ -138,13 +138,21 @@ const caption = `
 ┃★╭──────────────
 ┃★│ 👑 Owner : *Oshiya Official*
 ┃★│ 🤖 Baileys : *Multi Device*
-┃★│ 💻 Type : *NodeJs*
 ┃★│ 🚀 Platform : *Render*
 ┃★│ ⚙️ Mode : *Public*
 ┃★│ 🔣 Prefix : *[ . ]*
 ┃★│ 🏷️ Version : *8.0.0*
-┃★╰──────────────
-╰━━━━━━━━━━━━━━┈⊷`;
+╔═✨ OSHIYA-MD ✨═╗
+
+✅ Session Connected
+🔒 Secure Login
+⚡ Bot Activated
+
+🟢 Device Online
+
+🚀 Enjoy Your Premium Experience
+
+╚═══════════════╝`;
 
 // ---- Send IMAGE + caption, quoted with fake vCard ----
 await sock.sendMessage(
